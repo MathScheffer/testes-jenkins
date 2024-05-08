@@ -1,0 +1,327 @@
+Active Directory plugi:2.25                                  X
+Ant Plugin:1.11                                              X
+Apache HttpComponents Client 4.x API Plugin:4.5.10-2.0       X
+Artifactory Plugin:3.15.3                                    X
+Artifactory Plugin:3.5.0                                     X
+Authentication Tokens API Plugin:1.3                         X    
+Authentication Tokens API Plugin:1.4                         X
+Autofavorite for Blue Ocean:1.2.3:                           X
+Autofavorite for Blue Ocean:1.2.4                            X
+Bitbucket Branch Source Plugin:2.4.4                         X
+Bitbucket Branch Source Plugin:2.7.0                         X
+Bitbucket Pipeline for Blue Ocean:1.22.0                     X
+Bitbucket Pipeline for Blue Ocean:1.24.4                     X
+Bitbucket Plugin:1.1.11                                      X
+Blue Ocean Core JS:1.22.0                                    X
+Blue Ocean Core JS:1.25.2                                    X
+Blue Ocean Pipeline Editor:1.22.0                            X
+Blue Ocean Pipeline Editor:1.24.4                            X
+Blue Ocean:1.22.0                                            X
+Blue Ocean:1.24.4                                            X
+Bootstrap 4 API Plugin:4.6.0-3                               X
+Bootstrap 5 API Plugin:5.1.3-6                               X
+bouncycastle API Plugin:2.18                                 X
+Branch API Plugin:2.5.5                                      X
+Branch API Plugin:2.7.0                                      X
+BrowserStack:1.2.5                                           X
+uild Blocker Plugin:1.7.7                                    X
+Build Failure Analyzer:2.1.0                                 X
+Build Monitor View:1.14-860.vd06ef2568b_3f                   X
+Build Timeout:1.20                                           X
+build user vars plugin:1.8                                   X
+built-on-column:1.1                                          X
+CA Service Virtualization Plugin:1.0.2                       X
+Caffeine API Plugin:2.9.2-29.v717aac953ff3                   X
+categorized-view:1.12                                        X
+Checks API plugin:1.7.2                                      X
+loudBees Credentials Plugin:3.3                              X
+CloudBees File Leak Detector Plugin:1.6                      X
+Cobertura Plugin:1.12.1                                      X
+code Coverage API Plugin:2.0.4                               X
+Command Agent Launcher Plugin:1.2                            X
+Command Agent Launcher Plugin:1.4                            X
+Common API for Blue Ocean:1.22.0                             X
+Common API for Blue Ocean:1.25.2                             X
+Conditional BuildStep:1.3.6                                  X
+Conditional BuildStep:1.4.1                                  X
+Config API for Blue Ocean:1.22.0                             X
+Config API for Blue Ocean:1.24.4                             X
+Config File Provider Plugin:3.6.                             X
+Configuration as Code Plugin - Groovy Scripting Extension:1.1 X
+Configuration as Code Plugin:1.55                            X
+Conjur Secrets Plugin:0.8                                    X
+Copy Artifact Plugin:1.46.2                                  X
+Credentials Binding Plugin:1.20
+Credentials Binding Plugin:1.27                              X
+Credentials Plugin:2.3.1
+Credentials Plugin:2.6.1                                     X
+Cucumber json test reporting.:0.10.1                         X
+Cucumber reports:5.6.1                                       X
+Dashboard for Blue Ocean:1.22.0
+Dashboard for Blue Ocean:1.25.2                              X
+Dashboard View:2.18                                          X
+Database:117.va2009e38b882                                   X
+DataTables.net API Plugin:1.11.4-4                           X
+Delivery Pipeline Plugin:1.4.0                               X
+Design Language:1.22.0
+Design Language:1.25.2                                       X
+Discard Old Build plugin:1.05                                X
+Display URL API:2.3.2
+Display URL API:2.3.5                                        X
+Display URL for Blue Ocean:2.2.0
+Display URL for Blue Ocean:2.3.1                             X
+Docker Commons Plugin:1.16                                   X
+Docker Pipeline:1.21
+Docker Pipeline:1.23                                         X
+Durable Task Plugin:1.33
+Durable Task Plugin:1.39                                     X
+ECharts API Plugin:5.2.2-1                                   X
+Email Extension Plugin:2.68
+Email Extension Plugin:2.82                                  X
+Email Extension Template Plugin:1.2                          X
+EnvInject API Plugin:1.7
+EnvInject API Plugin:1.8                                     X
+Environment Injector Plugin:2.3.0
+Environment Injector Plugin:2.4.0                            X
+Events API for Blue Ocean:1.22.0
+Events API for Blue Ocean:1.24.4                             X
+External Monitor Job Type Plugin:1.7                         X
+Favorite:2.3.2 
+Favorite:2.3.3                                               X
+File Operations Plugin:1.11                                  X
+File Parameter Plugin:205.vf6ce13b_e5dee                     X
+Flexible Publish Plugin:0.16.1                               X
+Folders Plugin:6.11.1
+Folders Plugin:6.16                                          X
+Font Awesome API Plugin:6.0.0-1                              X
+Forensics API Plugin:1.5.0                                   X
+Fortify:19.2.30                                              X
+Git client plugin:3.1.1
+Git client plugin:3.11.0                                     X
+Git Pipeline for Blue Ocean:1.22.0
+Git Pipeline for Blue Ocean:1.24.4                           X
+Git plugin:4.1.1
+Git plugin:4.10.3                                            X
+GIT server Plugin:1.7
+GIT server Plugin:1.9                                        X
+GitHub API Plugin:1106
+GitHub API Plugin:1133                                       X
+GitHub Branch Source Plugin:2.11.3
+GitHub Branch Source Plugin:2.6.0                            X
+GitHub Organization Folder Plugin:1.6                        X
+GitHub Pipeline for Blue Ocean:1.22.0
+GitHub Pipeline for Blue Ocean:1.24.4                        X
+GitHub plugin:1.29.5
+GitHub plugin:1.34.1                                         X
+Google OAuth Credentials plugin:0.8
+Google OAuth Credentials plugin:1.0.0                        X
+Gradle Plugin:1.36
+Gradle Plugin:1.38                                           X
+Green Balls:1.15.1                                           x
+Groovy:2.2                                                   X
+H2 API Plugin:1.4.199                                        X
+Handy Uri Templates 2.x API Plugin:2.1.6-1.0
+Handy Uri Templates 2.x API Plugin:2.1.8-1.0                 X
+HashiCorp Vault Plugin:3.4.0                                 X
+HP ALM Quality Center Plugin:1.6                             X
+HTML Publisher plugin:1.21                                   X
+HTTP Request Plugin:1.8.26                                   X
+i18n for Blue Ocean:1.22.0
+i18n for Blue Ocean:1.24.4                                   X
+Ivy Plugin:2.1                                     X
+Ivy Report Plugin:1.2                              X
+IvyTrigger Plug-in:0.35                            X
+Jackson 2 API Plugin:2.10.2
+Jackson 2 API Plugin:2.13.1-246.va8a9f3eaf46a                X
+JaCoCo plugin:3.3.2                                          X
+Java JSON Web Token (JJWT) Plugin:0.11.2-9.c8b45b8bb173      X
+Javadoc Plugin:1.5
+Javadoc Plugin:1.6                                           X
+JavaScript GUI Lib: ACE Editor bundle plugin:1.1
+JavaScript GUI Lib: Handlebars bundle plugin:1.1.1
+JavaScript GUI Lib: Handlebars bundle plugin:3.0.8           X
+JavaScript GUI Lib: jQuery bundles (jQuery and jQuery UI) plugin:1.2.1 X
+JavaScript GUI Lib: Moment.js bundle plugin:1.1.1            X
+JAXB plugin:2.3.0
+JAXB plugin:2.3.0.1                                          X
+JDK Tool Plugin:1.0                                          X
+JIRA Integration for Blue Ocean:1.22.0
+JIRA Integration for Blue Ocean:1.25.2                       X
+JIRA plugin:3.0.12                                           X
+Jira plugin:3.6                                              X
+Job and Node ownership plugin:0.13.0                         X
+Job and Stage monitoring Plugin:3.6.2                        X
+Job Configuration History Plugin:2.28.1                      X
+Job DSL:1.76
+Job DSL:1.77                                                 X
+jQuery plugin:1.12.4-1                                       X
+JQuery3 API Plugin:3.6.0-2                                   X
+JSch dependency plugin:0.1.55.2                              X
+JUnit Plugin:1.28
+JUnit Plugin:1.53                                            X
+Junit SQL Storage Plugin:104.vce793afab7b3                   X
+JWT for Blue Ocean:1.22.0
+JWT for Blue Ocean:1.24.4                                    X
+Kubernetes Client API Plugin:4.13.3-1
+Kubernetes Client API Plugin:4.6.4-2                         X
+Kubernetes Credentials Plugin:0.6.2
+Kubernetes Credentials Plugin:0.8.0                           X
+Kubernetes plugin:1.24.1
+Kubernetes plugin:1.29.7                                      X
+Labelled Pipeline Steps Plugin:1.1-GM25092                    X
+LDAP Plugin:1.21
+LDAP Plugin:2.7                                               X
+Lockable Resources plugin:2.10
+Lockable Resources plugin:2.7                                 X
+Logstash:2.3.1                                                X
+Mailer Plugin:1.30
+Mailer Plugin:391.ve4a_38c1b_cf4b_                            X
+MapDB API Plugin:1.0.9.0                                      X
+Mask Passwords Plugin:2.12.0                                  X
+Matrix Authorization Strategy Plugin:2.5
+Matrix Authorization Strategy Plugin:2.6.8                    X
+Matrix Project Plugin:1.14
+Matrix Project Plugin:1.19                                    X
+Maven Integration plugin:3.15.1
+Maven Integration plugin:3.4                                  X
+Mercurial plugin:2.12
+Mercurial plugin:2.8                                          X
+Metrics Plugin:4.0.2.6
+Metrics Plugin:4.0.2.8                                        X
+Micro Focus Application Automation Tools:7.1                  X
+Monitoring:1.87.0                                             X
+MSTest plugin:1.0.0                                           X
+Multijob plugin:1.36                                          X
+Multiple SCMs plugin:0.8                                      X
+Naginator:1.18.1                                              X
+Nested View Plugin:1.22                                      X
+NodeJS Plugin:1.5.1                                            Z
+OAuth Credentials plugin:0.3                                 X
+Office 365 Connector:4.12.4
+OkHttp Plugin:3.14.9
+OpenShift Client Jenkins Plugin:1.0.32
+OpenShift Client Jenkins Plugin:1.0.35
+OpenShift Login Plugin:1.0.22
+OpenShift Login Plugin:1.0.26
+OpenShift Pipeline Jenkins Plugin:1.0.57
+OpenShift Sync:1.0.44
+OpenShift Sync:1.0.46
+Oracle Java SE Development Kit Installer Plugin:1.4
+OWASP Markup Formatter Plugin:1.1
+OWASP Markup Formatter Plugin:1.8
+PAM Authentication plugin:1.6
+PAM Authentication plugin:1.6
+Parameterized Remote Trigger Plugin:3.1.5.1
+Parameterized Trigger plugin:2.36
+Parameterized Trigger plugin:2.42
+Personalization for Blue Ocean:1.22.0
+Personalization for Blue Ocean:1.25.2
+Pipeline Graph Analysis Plugin:1.10
+Pipeline Graph Analysis Plugin:1.10
+Pipeline implementation for Blue Ocean:1.22.0
+Pipeline implementation for Blue Ocean:1.24.4
+Pipeline Maven Integration Plugin:3.8.2
+Pipeline Remote Loader Plugin:1.5
+Pipeline SCM API for Blue Ocean:1.22.0
+Pipeline SCM API for Blue Ocean:1.24.4
+Pipeline Utility Steps:2.3.0
+Pipeline Utility Steps:2.5.0
+Pipeline: API:1143.v2d42f1e9dea_5
+Pipeline: API:2.39
+Pipeline: Basic Steps:2.19
+Pipeline: Basic Steps:2.24
+Pipeline: Build Step:2.7
+Pipeline: Build Step:2.7
+Pipeline: Declarative Agent API:1.1.1
+Pipeline: Declarative Agent API:1.1.1
+Pipeline: Declarative Extension Points API:1.5.1
+Pipeline: Declarative Extension Points API:1.7.2
+Pipeline: Declarative:1.5.1
+Pipeline: Declarative:1.6.0
+Pipeline: GitHub Groovy Libraries:1.0
+Pipeline: Groovy:2.80
+Pipeline: Groovy:2.94
+Pipeline: Input Step:2.11
+Pipeline: Input Step:2.8
+Pipeline: Job:2.36
+Pipeline: Job:2.42
+Pipeline: Milestone Step:1.3.1
+Pipeline: Milestone Step:1.3.1
+Pipeline: Model API:1.5.1
+Pipeline: Model API:1.7.2
+Pipeline: Multibranch:2.21
+Pipeline: Multibranch:2.26
+Pipeline: Nodes and Processes:2.35
+Pipeline: Nodes and Processes:2.40
+Pipeline: REST API Plugin:2.13
+Pipeline: REST API Plugin:2.9
+Pipeline: SCM Step:2.10
+Pipeline: SCM Step:2.13
+Pipeline: Shared Groovy Libraries:2.15
+Pipeline: Shared Groovy Libraries:2.9
+Pipeline: Stage Step:2.3
+Pipeline: Stage Step:2.5
+Pipeline: Stage Tags Metadata:1.5.1
+Pipeline: Stage Tags Metadata:1.6.0
+Pipeline: Stage View Plugin:2.13
+Pipeline: Step API:2.22
+Pipeline: Step API:622.vb_8e7c15b_c95a_
+Pipeline: Supporting APIs:3.4
+Pipeline: Supporting APIs:3.8
+Pipeline:2.6
+Plain Credentials Plugin:1.7
+Plain Credentials Plugin:1.7
+Plugin Utilities API Plugin:2.14.0
+Popper.js 2 API Plugin:2.11.2-1
+Popper.js API Plugin:1.16.1-2
+Project Inheritance Plugin:21.04.03
+Prometheus metrics plugin:2.0.0
+promoted builds plugin:3.10
+Pub-Sub "light" Bus:1.13
+Pub-Sub "light" Bus:1.13
+Rebuilder:1.32
+Redis Fingerprint Storage Plugin:1.0-rc-3
+Resource Disposer Plugin:0.15
+Resource Disposer Plugin:0.16
+REST API for Blue Ocean:1.22.0
+REST API for Blue Ocean:1.25.2
+REST Implementation for Blue Ocean:1.22.0
+REST Implementation for Blue Ocean:1.24.4
+Run Condition Plugin:1.2
+Run Condition Plugin:1.5
+Safe Restart Plugin:0.3
+SCM API Plugin:2.6.3
+SCM API Plugin:2.6.5
+Scoring Load Balancer:1.0.1
+Scoring Load Balancer:1.0.1
+Script Security Plugin:1.70
+Script Security Plugin:1118.vba21ca2e3286
+Self-Organizing Swarm Plug-in Modules:3.18
+Server Sent Events (SSE) Gateway Plugin:1.21
+Server Sent Events (SSE) Gateway Plugin:1.24
+Shelve Project Plugin:3.2
+Snakeyaml API Plugin:1.29.1
+SonarQube Scanner for Jenkins:2.13.1
+SSH Credentials Plugin:1.18.1
+SSH Credentials Plugin:1.19
+SSH server:3.0.3
+Startup Trigger:2.9.3
+Structs Plugin:1.20
+Structs Plugin:308.v852b473a2b8c
+Subversion Plug-in:2.10.3
+Subversion Plug-in:2.15.1
+Support Core Plugin:2.78
+Swarm Plugin:3.28
+Test Results Analyzer Plugin:0.3.5
+TestFLO - Test Management for Jira:1.1.0
+Token Macro Plugin:2.10
+Token Macro Plugin:267.vcdaea6462991
+Trilead API Plugin:1.0.13
+Trilead API Plugin:1.0.5
+Variant Plugin:1.3
+Variant Plugin:1.4
+Web for Blue Ocean:1.22.0
+Web for Blue Ocean:1.25.2
+Windows Slaves Plugin:1.0
+Workspace Cleanup Plugin:0.39
+Zephyr for JIRA Test Management plugin:1.5
